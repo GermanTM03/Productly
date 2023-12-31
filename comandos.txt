@@ -1,0 +1,15 @@
+Creacion
+django-admin startproject productly .  
+
+arrancar server
+python manage.py runserver
+crear app
+ python manage.py startapp  productos                                                                    
+
+ generar migracion
+
+ python manage.py makemigrations
+
+
+migrar
+python manage.py migrate 
